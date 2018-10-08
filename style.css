@@ -9,7 +9,7 @@ h1{
 }
 
 .divider{
-	background-image: url('../img/divider-pattern.png');
+	background-image: url('../divider-pattern.png');
 	background-repeat: repeat-x;;
 	height: 4px;
 	width: 100%;
